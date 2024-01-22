@@ -1,11 +1,13 @@
 # Textile Robotic Interaction Dataset for Designer Robot Collaboration (HRI 2024)
 
-This repository stores the scripts and text-based data for a collaborative experiment conducted in July 2023 between two research projects, Intelligent Design Systems for Innovation (RP2-5) at the Royal College of Art, London, UK and Human-centred AI Design (RP2-4) at The Hong Kong Polytechnic.  Both projects are funded by the Laboratory for Artificial Intelligence in Design https://www.aidlab.hk/en/ under the InnoHK Research Clusters, Hong Kong Special Administrative Region Government.
+This repository stores the scripts and text-based data for a collaborative experiment conducted in July 2023 between two research projects, Intelligent Design Systems for Innovation (RP2-5) at the Royal College of Art, London, UK and Human-centred AI Design (RP2-4) at The Hong Kong Polytechnic.  Both projects are funded by the [Laboratory for Artificial Intelligence in Design](https://www.aidlab.hk/en/) under the InnoHK Research Clusters, Hong Kong Special Administrative Region Government.
 
-There were two robotic experiments.  Both had the general aim of scanning and recording image-based / video data of textile materials.  The set of 12 novel sustainable textile materials used in these experiments was provided by the RP2-5, sourced from via Sustainable Angle https://thesustainableangle.org/ from their Future Fabric Material Library.   RP2-4 provided access to UFactory xArm7 robot arms at the human-robotic collaboration lab.
+There were two robotic experiments.  Both had the general aim of scanning and recording image-based / video data of textile materials.  The set of 12 novel sustainable textile materials used in these experiments was provided by the RP2-5, sourced from via [Sustainable Angle] (https://thesustainableangle.org/) from their Future Fabric Material Library.   RP2-4 provided access to UFactory xArm7 robot arms at the human-robotic collaboration lab.
 
-*A sample selection of data is available in the ```data``` directory.*  The full data is available as a .zip from ***anonmised for review***  Un-zip this directory and replace the ```data``` directory.  
+## Data
+*A sample selection of data is available in the ```data``` directory, in this repository.*  The full data is available as a .zip from this link. Un-zip this directory and replace the ```data``` directory.  
 
+## Research Paper
 A research paper is available, published as a Late-Breaking Report submitted to Human-Robotic Interaction Conference 2024. ***link to submitted research paper***, which
 describes the set-up to the experiments.  This document describes technical details, such as file formats and the scripts used to run the robot experiments.
 
