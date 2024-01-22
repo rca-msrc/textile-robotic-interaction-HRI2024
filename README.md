@@ -10,9 +10,13 @@ There were two robotic experiments.  Both had the general aim of scanning and re
 ## Research Paper
 A research paper is available, published as a Late-Breaking Report submitted to Human-Robotic Interaction Conference 2024, which
 describes the set-up to the experiments.  This document describes technical details, such as file formats and the scripts used to run the robot experiments.
-
-    Chipp Jansen, Zhengtao Ma, Lissy Hatfield, Boyuan Tuo, Elif Ozden Yenigun, Sharon Baurley, Stephen Jia Wang, and Kun Pyo Lee. 2024. Textile Robotic Interaction for Designer-Robot Collaboration. In Companion of the 2024 ACM/IEEE International Conference on Human-Robot Interaction (HRI '24 Companion), March 11–14, 2024, Boulder, CO, USA. ACM, New York, NY, USA, 5 pages. https://doi.org/10.1145/3610978.3640722
-
+    
+    Chipp Jansen, Zhengtao Ma, Lissy Hatfield, Boyuan Tuo, Elif Ozden Yenigun,
+    Sharon Baurley, Stephen Jia Wang, and Kun Pyo Lee. 2024. Textile Robotic
+    Interaction for Designer-Robot Collaboration. In Companion of the 2024
+    ACM/IEEE International Conference on Human-Robot Interaction (HRI '24
+    Companion), March 11–14, 2024, Boulder, CO, USA. ACM, New York, NY,
+    USA, 5 pages. https://doi.org/10.1145/3610978.3640722
 
 ## Experiments
 
