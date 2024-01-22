@@ -201,7 +201,7 @@ Two robot arms are positioned symmetrically over a work area.  The work area is 
 
 ![Top-down view of Robot Handfeel set-up](doc/handfeel_setup.jpg "Top-down view of Robot Handfeel set-up")
 
-The robots interact with the fabric with a static end-effector "thumb", made of 3D printed ABS plastic (TODO: need to check with Toto).  
+The robots interact with the fabric with a static end-effector "thumb", made of 3D printed ABS plastic.
 
 ![Close-up of thumb](doc/thumb.jpg "Close-up of thumb")
 
