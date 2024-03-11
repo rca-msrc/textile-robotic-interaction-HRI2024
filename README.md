@@ -4,7 +4,6 @@ This repository stores the scripts and text-based data for a collaborative exper
 
 There were two robotic experiments.  Both had the general aim of scanning and recording image-based / video data of textile materials.  The set of 12 novel sustainable textile materials used in these experiments was provided by the RP2-5, sourced from via [Sustainable Angle](https://thesustainableangle.org/) from their Future Fabric Material Library.   RP2-4 provided access to UFactory xArm7 robot arms at the human-robotic collaboration lab.
 
-<div style="padding:56.25% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/922017667?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" style="position:absolute;top:0;left:0;width:100%;height:100%;" title="Textile Robotic Ineraction for Designer-Robotic Collaboration"></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
 
 ## Data
 *A sample selection of data is available in the ```data``` directory, in this repository.*  The full data is available as a .zip from this link. Un-zip this directory and replace the ```data``` directory.  
